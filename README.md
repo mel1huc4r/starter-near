@@ -168,3 +168,5 @@ Please note that, in order to create the AssemblyScript and tests folder structu
 ./assembly/tests/example.spec.ts
 ./assembly/tests/as-pect.d.ts
 ```
+
+www.patika.dev
